@@ -1,0 +1,11 @@
+camlc -c -i -I ../Util permutations.ml
+camlc -c -i -I ../Util complex.ml
+camlc -c -i -I ../Util hyperbolic_geometry.ml
+camlc -c -i -I ../Util symmetry_groups.ml
+camlc -c -i -I ../Util hyperbolic_group_3_3_4.ml
+camlc -c -i -I ../Util circle_limit.ml
+camlc -c -i -I ../Util poisson.ml
+camlc -c -i -I ../Util kang1.ml
+camlc -c -i -I ../Util kang2.ml
+camlc -c -i -I ../Util kang3.ml
+
